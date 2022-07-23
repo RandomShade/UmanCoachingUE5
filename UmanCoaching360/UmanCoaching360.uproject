@@ -19,6 +19,16 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "RadarChart",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/58ae23f808924ba9984f77dfcf567a65"
+		},
+		{
+			"Name": "WidgetDocumentationPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3fc2b12642e74510b667d749c29737c2"
 		}
 	]
 }
